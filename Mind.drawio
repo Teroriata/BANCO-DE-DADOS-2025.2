@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Página-1" id="8Iw2187nsq1q3JchT0BX">
-    <mxGraphModel dx="2447" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2325" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,6 +144,9 @@
         </mxCell>
         <mxCell id="KdTZia1D0EIVLSh1EkJ0-47" value="&lt;code data-end=&quot;496&quot; data-start=&quot;490&quot;&gt;tipo&lt;/code&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;container=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="1000" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KdTZia1D0EIVLSh1EkJ0-203" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KdTZia1D0EIVLSh1EkJ0-45" target="KdTZia1D0EIVLSh1EkJ0-202">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KdTZia1D0EIVLSh1EkJ0-48" value="Utiliza" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="440" y="1070" width="120" height="60" as="geometry" />
@@ -542,7 +545,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KdTZia1D0EIVLSh1EkJ0-129" value="(1,1)" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="532" y="1513" as="geometry">
+          <mxGeometry x="550" y="1390" as="geometry">
             <mxPoint x="7" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -624,6 +627,22 @@
         </mxCell>
         <mxCell id="KdTZia1D0EIVLSh1EkJ0-200" value="&lt;strong data-end=&quot;367&quot; data-start=&quot;355&quot;&gt;subtotal&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-60" y="1634" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KdTZia1D0EIVLSh1EkJ0-202" value="paga_com " style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdTZia1D0EIVLSh1EkJ0-204" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="KdTZia1D0EIVLSh1EkJ0-202">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="498" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdTZia1D0EIVLSh1EkJ0-205" value="(0,1)" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="464" y="1375" as="geometry">
+            <mxPoint x="27" y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdTZia1D0EIVLSh1EkJ0-206" value="(0,N)" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="320" y="1137" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
