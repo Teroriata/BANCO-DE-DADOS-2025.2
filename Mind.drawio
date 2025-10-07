@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Página-1" id="8Iw2187nsq1q3JchT0BX">
-    <mxGraphModel dx="2623" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3398" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -651,7 +651,7 @@
         <mxCell id="KdTZia1D0EIVLSh1EkJ0-233" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="KdTZia1D0EIVLSh1EkJ0-210" target="KdTZia1D0EIVLSh1EkJ0-231">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KdTZia1D0EIVLSh1EkJ0-210" value="&lt;strong data-end=&quot;351&quot; data-start=&quot;334&quot;&gt;ITEM_CARRINHO&amp;nbsp;&lt;/strong&gt;" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="KdTZia1D0EIVLSh1EkJ0-210" value="&lt;span data-end=&quot;351&quot; data-start=&quot;334&quot;&gt;ItemCarinho&lt;/span&gt;" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-110" y="1280" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KdTZia1D0EIVLSh1EkJ0-211" value="&lt;code data-end=&quot;280&quot; data-start=&quot;272&quot;&gt;contém&lt;/code&gt;" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
@@ -660,7 +660,7 @@
         <mxCell id="KdTZia1D0EIVLSh1EkJ0-216" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="KdTZia1D0EIVLSh1EkJ0-214" target="KdTZia1D0EIVLSh1EkJ0-210">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KdTZia1D0EIVLSh1EkJ0-214" value="&lt;strong data-end=&quot;534&quot; data-start=&quot;520&quot;&gt;quantidade&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="KdTZia1D0EIVLSh1EkJ0-214" value="&lt;span data-end=&quot;534&quot; data-start=&quot;520&quot;&gt;quantidade&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="50" y="1280" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KdTZia1D0EIVLSh1EkJ0-217" value="de" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
